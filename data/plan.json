@@ -1,0 +1,28 @@
+{
+ "made": "2026-11-24",
+ "note": "The season plan for every device. Order is FG%, FT%, 3PM, PTS, REB, AST, STL, BLK, TO. Roles are lock, build, bonus, low, punt and swing. This starting plan was worked out from Vinny's Team's results in weeks 1 to 5 of 2026-27: the cats it wins most often (TO, FT%, BLK) are locks, FG%, 3PM, REB and STL are the build pool, PTS counts half and AST is the punt. Change it here or on the Season plan panel of the site.",
+ "roles": [
+  "build",
+  "lock",
+  "build",
+  "low",
+  "build",
+  "punt",
+  "build",
+  "lock",
+  "lock"
+ ],
+ "never": [],
+ "hold": {},
+ "keep": [],
+ "ask": {},
+ "askNote": "Asking prices. Name a player and a rank, and a trade that sends him must bring back a player ranked that high or better. own means a player ranked as high as him.",
+ "rulesNote": "never is never traded or dropped, hold is not traded until that day, keep is never suggested as a drop. Names as Yahoo shows them.",
+ "tiers": {
+  "trade": [],
+  "float": [],
+  "drop": []
+ },
+ "review": {},
+ "tiersNote": "Your own calls. trade is trade only and never dropped, float is earning his spot and never dropped for a stream, drop goes for any clear upgrade. A player on no list counts as droppable."
+}
